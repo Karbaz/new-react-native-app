@@ -1,0 +1,3 @@
+rootProject.name = 'Bewakoof_Shopping_App'
+
+include ':app'
